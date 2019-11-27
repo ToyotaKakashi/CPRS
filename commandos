@@ -1,1 +1,16 @@
-test
+init 	 |	Create an empty Git repository or reinitialize an existing one
+config 	 |	Get and set repository or global options
+clone 	 |	Clone a repository into a new directory
+add 	 |	Add file contents to the index
+rm 	 | 	Remove files from the working tree and from the index
+commit 	 | 	Record changes to the repository
+remote 	 | 	Manage set of tracked repositories
+push 	 | 	Update remote refs along with associated objects
+pull 	 | 	Fetch from and integrate with another repository or a local branch
+status 	 | 	Show the working tree status
+diff 	 | 	Show changes between commits, commit and working tree, etc
+reset 	 | 	Reset current HEAD to the specified state
+log 	 | 	Show commit logs
+branch 	 | 	List, create, or delete branches
+checkout | 	Switch branches or restore working tree files
+merge	 |	Join two or more development histories together
