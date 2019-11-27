@@ -1,3 +1,4 @@
+
 init 	 |	Create an empty Git repository or reinitialize an existing one
 config 	 |	Get and set repository or global options
 clone 	 |	Clone a repository into a new directory
